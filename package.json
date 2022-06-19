@@ -1,0 +1,19 @@
+{
+  "name": "css_flexbox_assignment_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rukaiya/css-flexbox-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rukaiya/css-flexbox-assignment/issues"
+  },
+  "homepage": "https://github.com/Rukaiya/css-flexbox-assignment#readme"
+}
