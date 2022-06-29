@@ -133,11 +133,17 @@ h2 {
 
 .about-collage .container {
     display: flex;
-    justify-content: center;
-    border: 2px solid black;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
 }
-
-.about-collage img {
+.about-collage .container div{
     width: 24%;
+    
+}
+.about-collage .container img {
+    width: 100%;
     height: auto;
+    display: block;
+    margin-bottom: 10px;
 }
