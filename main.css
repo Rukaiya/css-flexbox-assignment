@@ -133,12 +133,11 @@ h2 {
 
 .about-collage .container {
     display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+    justify-content: center;
     border: 2px solid black;
 }
 
 .about-collage img {
-    width: 23%;
+    width: 24%;
     height: auto;
 }
